@@ -29,8 +29,8 @@
 
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310">
 <br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=radical">
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Junyyy&layout=Demo&theme=onedark">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=radical">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Junyyy&layout=Demo&theme=onedark">
 <p align ="center">
 <img align='center' src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer">
 
