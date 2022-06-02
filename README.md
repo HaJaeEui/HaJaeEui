@@ -22,6 +22,6 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" width="70px" height="25px"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white" width="70px" height="25px"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" width="70px" height="25px"/></center>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={co3310})](https://solved.ac/{co3310})
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={co3310})](https://solved.ac/{co3310})
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaJaeEui&layout=Demo&theme=onedark)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
