@@ -1,6 +1,9 @@
 <p align ="center">
 <img align='center' src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JaeEui%20Ha&fontSize=90">
-<h2 align="center">🛠 Tech Stack ⚒</h2>
+
+<div align="center">
+## 🛠 Tech Stack ⚒
+</div>
 <br>
 <p align ="center">
 <img src="https://img.shields.io/badge/Spring-brightgreen?style=plastic&logo=Spring&logoColor=white" width="80px" height="25px"/>
