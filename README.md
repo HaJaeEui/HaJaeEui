@@ -2,7 +2,7 @@
 <img align='center' src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JaeEui%20Ha&fontSize=90">
 
 <div align="center">
-## 🛠 Tech Stack ⚒
+<h2> 🛠 Tech Stack ⚒</h2>
 </div>
 <br>
 <p align ="center">
