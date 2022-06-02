@@ -1,3 +1,4 @@
+<p align ="center">
 <img align='center' src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JaeEui%20Ha&fontSize=90">
 <h2 align="center">🛠 Tech Stack ⚒</h2>
 <br>
@@ -22,11 +23,14 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" width="70px" height="25px"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white" width="70px" height="25px"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" width="70px" height="25px"/>
-
+<br>
+<br>
+<br>
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=radical">
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Junyyy&layout=Demo&theme=onedark">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=radical">
+<p align ="center">
 <img align='center' src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer">
 
 
