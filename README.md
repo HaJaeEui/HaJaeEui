@@ -42,5 +42,4 @@
 <br>
 <br>
 <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310)](https://solved.ac/co3310)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310)](https://solved.ac/co3310)
