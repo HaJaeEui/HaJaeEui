@@ -4,7 +4,8 @@
 <br>
 <br>
 <p align="center">안녕하세요:raised_hands:</p>
-<p align="center">제 이름은 하재의입니다. 백앤드와 프론트앤드를 공부하고 있어요:muscle:</p>
+<p align="center">제 이름은 하재의입니다. 백앤드와 프론트앤드를 공부하고 있어요!!</p>
+<p align="center">알고리즘에도 관심이 많습니다:muscle:</p>
 <br>
 <br>
 <h2 align="center">🛠 Tech Stack 🛠</h2>
