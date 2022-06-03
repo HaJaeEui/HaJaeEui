@@ -26,11 +26,7 @@
 <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white" width="80px" height="25px"/>
-<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white" width="80px" height="25px"/>
-<img src="https://img.shields.io/badge/electron-47848F?style=plastic&logo=electron&logoColor=white" width="80px" height="25px"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white" width="80px" height="25px"/>
-
 <br>
 <br>
 <br>
@@ -41,6 +37,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white" width="70px" height="25px"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" width="80px" height="25px"/>
   <img src="https://img.shields.io/badge/SQLite-f06292?style=plastic&logo=SQLite&logoColor=white" width="80px" height="25px"/>
+  <img src="https://img.shields.io/badge/electron-47848F?style=plastic&logo=electron&logoColor=white" width="80px" height="25px"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white" width="80px" height="25px"/>
 <br>
 <br>
 <br>
