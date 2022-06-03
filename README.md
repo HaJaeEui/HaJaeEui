@@ -1,7 +1,6 @@
 <p align ="center">
 <img align='center' src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JaeEui%20Ha&fontSize=90">
 <h2 align="center">🛠 Tech Stack 🛠</h2>
-<br>
 <p align ="center">
 <img src="https://img.shields.io/badge/Spring-brightgreen?style=plastic&logo=Spring&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/Java-3D95CE?style=plastic&logo=Java&logoColor=white" width="80px" height="25px"/>
@@ -17,7 +16,6 @@
 <br>
 <br>
 <h2 align="center">🔧 Techs that l've used at least once 🔧</h2>
-<br>
 <p align ="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" width="70px" height="25px"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" width="70px" height="25px"/>
