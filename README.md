@@ -42,7 +42,4 @@
 <br>
 <br>
 <br>
-<p align="center">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={co3310})](https://solved.ac/{co3310})
-</p>
+<img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=co3310)](https://solved.ac/co3310"></img>
