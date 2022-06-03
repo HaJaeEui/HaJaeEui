@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white" width="75px" height="22px"/>
   <img src="https://img.shields.io/badge/SQLite-f06292?style=plastic&logo=SQLite&logoColor=white" width="75px" height="22px"/>
 :star2: 
-이용하여 웹 앱을 개발중입니다~:computer:</h3>
+<br>이용하여 웹 앱을 개발중입니다~:computer:</h3>
 <br>
 <br>
 <h1 align="center">🛠 Tech Stack 🛠</h1>
