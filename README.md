@@ -41,4 +41,4 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" width="80px" height="25px"/>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJaeEui&show_icons=true&theme=radical)
+<img>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJaeEui&show_icons=true&theme=radical)</img>
