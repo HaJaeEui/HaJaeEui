@@ -41,5 +41,5 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" width="80px" height="25px"/>
 <br>
 <br>
-<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=HaJaeEui&show_icons=true&theme=radical"></img>
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=HaJaeEui&show_icons=true&theme=radical"></img>
 <img align="center" width="350" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310"></img>
