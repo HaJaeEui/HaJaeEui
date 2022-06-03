@@ -41,5 +41,4 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" width="80px" height="25px"/>
 <br>
 <br>
-<br>
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310">
