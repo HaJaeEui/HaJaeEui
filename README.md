@@ -33,7 +33,7 @@
 <br>
 <br>
 <br>
-<h1 align="center">🔧 Techs that l've used at least once 🔧</h1>
+<h2 align="center">🔧 Techs that l've used at least once 🔧</h2>
 <p align ="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" width="80px" height="25px"/>
@@ -43,4 +43,4 @@
 <br>
 <br>
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310">
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310)](https://solved.ac/co3310)
