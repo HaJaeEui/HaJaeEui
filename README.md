@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white" width="75px" height="22px"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white" width="75px" height="22px"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white" width="75px" height="22px"/>
+  <img src="https://img.shields.io/badge/SQLite-f06292?style=plastic&logo=SQLite&logoColor=white" width="75px" height="22px"/>
 :star2: 
 이용하여 웹 앱을 개발중입니다~:computer:</h3>
 <br>
@@ -39,6 +40,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white" width="70px" height="25px"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" width="80px" height="25px"/>
+  <img src="https://img.shields.io/badge/SQLite-f06292?style=plastic&logo=SQLite&logoColor=white" width="80px" height="25px"/>
 <br>
 <br>
 <img align="center" width="440" src="https://github-readme-stats.vercel.app/api?username=HaJaeEui&show_icons=true&theme=radical"></img>
