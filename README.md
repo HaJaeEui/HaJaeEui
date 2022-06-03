@@ -7,7 +7,7 @@
 <p align="center">제 이름은 하재의입니다. 백앤드와 프론트앤드를 공부하고 있어요!!</p>
 <p align="center">알고리즘에도 관심이 많습니다:muscle:</p>
 <br>
-<h3 align="center">현제 진행중인 프로잭트는  
+<h3 align="center">현재 진행중인 프로잭트는  
 :star2:
 <img src="https://img.shields.io/badge/electron-47848F?style=plastic&logo=electron&logoColor=white" width="70px" height="20px"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white" width="70px" height="20px"/>
@@ -16,7 +16,7 @@
 :star2: 
 이용하여 웹 앱을 개발중입니다~:computer:</h3>
 <br>
-<h2 align="center">🛠 Tech Stack 🛠</h2>
+<h1 align="center">🛠 Tech Stack 🛠</h1>
 <p align ="center">
 <img src="https://img.shields.io/badge/Spring-brightgreen?style=plastic&logo=Spring&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/Java-3D95CE?style=plastic&logo=Java&logoColor=white" width="80px" height="25px"/>
@@ -32,7 +32,7 @@
 <br>
 <br>
 <br>
-<h2 align="center">🔧 Techs that l've used at least once 🔧</h2>
+<h1 align="center">🔧 Techs that l've used at least once 🔧</h1>
 <p align ="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" width="80px" height="25px"/>
