@@ -4,6 +4,7 @@
 <div align="center" style="font-size=100%">
 🛠 Tech Stack ⚒
 </div>
+<span style="font-size:250%">🛠 Tech Stack ⚒</span>
 <br>
 <p align ="center">
 <img src="https://img.shields.io/badge/Spring-brightgreen?style=plastic&logo=Spring&logoColor=white" width="80px" height="25px"/>
