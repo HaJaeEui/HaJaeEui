@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=231F20" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white" width="80px" height="25px"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" width="80px" height="25px"/>
 <br>
 <br>
 <br>
