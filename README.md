@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white" width="80px" height="25px"/>
+<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/electron-47848F?style=plastic&logo=electron&logoColor=white" width="80px" height="25px"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white" width="80px" height="25px"/>
@@ -25,6 +26,3 @@
 <br>
 <br>
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310">
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=radical">
-<br>
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Junyyy&layout=Demo&theme=onedark">
