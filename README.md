@@ -7,6 +7,19 @@
 <h3 align="center">제 이름은 하재의입니다. 백앤드와 프론트앤드를 공부하고 있어요!!</h3>
 <h3 align="center">알고리즘에도 관심이 많습니다:muscle:</h3>
 <br>
+<h3 align="center">프로잭트 경험</h3>
+<h3 align="center">
+<img src="https://img.shields.io/badge/Spring-brightgreen?style=plastic&logo=Spring&logoColor=white" width="75px" height="22px"/>
+<img src="https://img.shields.io/badge/Java-3D95CE?style=plastic&logo=Java&logoColor=white" width="75px" height="22px"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=white" width="75px" height="22px"/>
+<img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="75px" height="22px"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white" width="75px" height="22px"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white" width="75px" height="22px"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white" width="75px" height="22px"/>
+<img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=231F20" width="100px" height="22px"/>
+<img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" width="75px" height="22px"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" width="75px" height="22px"/>
+이용하여 웹 개발(호텔예약, 그룹웨어) 경험이 있습니다.<
 <h3 align="center">현재 진행중인 프로잭트는  
 :star2:
 <img src="https://img.shields.io/badge/electron-47848F?style=plastic&logo=electron&logoColor=white" width="75px" height="22px"/>
