@@ -7,6 +7,7 @@
 <h3 align="center">제 이름은 하재의입니다. 백앤드와 프론트앤드를 공부하고 있어요!!</h3>
 <h3 align="center">알고리즘에도 관심이 많습니다:muscle:</h3>
 <br>
+<br>
 <h3 align="center">:seedling: 프로잭트 경험 :seedling:
 <br>
 <br>:star2: 
