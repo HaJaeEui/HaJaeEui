@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" width="75px" height="22px"/>
 <br>
 이용하여 웹 개발(호텔예약, 그룹웨어) 경험이 있습니다.</h3>
+<br>
+<br>
 <h3 align="center">현재 진행중인 프로잭트는  
 :star2:
 <img src="https://img.shields.io/badge/electron-47848F?style=plastic&logo=electron&logoColor=white" width="75px" height="22px"/>
