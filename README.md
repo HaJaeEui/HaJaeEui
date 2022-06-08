@@ -71,3 +71,4 @@
 <br>
   <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="75px" height="22px"/>
   <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="80px" height="25px"/>
+  <img src="https://img.shields.io/badge/jQuery-3D95CE?style=plastic&logo=jQuery&logoColor=white" width="80px" height="25px"/>
