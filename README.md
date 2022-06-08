@@ -69,5 +69,5 @@
 <img align="center" width="350" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310"></img>
 
 <br>
-  <img src="https://img.shields.io/badge/jQuery-f06292?style=plastic&logo=jQuery&logoColor=white" width="75px" height="22px"/>
+  <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="75px" height="22px"/>
   <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="80px" height="25px"/>
