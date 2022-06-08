@@ -70,3 +70,4 @@
 
 <br>
   <img src="https://img.shields.io/badge/jQuery-f06292?style=plastic&logo=SQLite&logoColor=white" width="75px" height="22px"/>
+  <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="80px" height="25px"/>
