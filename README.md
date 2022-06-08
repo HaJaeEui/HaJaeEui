@@ -69,4 +69,4 @@
 <img align="center" width="350" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310"></img>
 
 <br>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" width="80px" height="25px"/>
+<img src="https://img.shields.io/badge/Java-D24939?style=plastic&logo=Jenkins&logoColor=white" width="80px" height="25px"/>
