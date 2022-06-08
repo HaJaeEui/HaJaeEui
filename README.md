@@ -69,4 +69,4 @@
 <img align="center" width="350" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310"></img>
 
 <br>
-  <img src="https://img.shields.io/badge/Oracle-f06292?style=plastic&logo=SQLite&logoColor=white" width="75px" height="22px"/>
+  <img src="https://img.shields.io/badge/jQuery-f06292?style=plastic&logo=SQLite&logoColor=white" width="75px" height="22px"/>
