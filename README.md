@@ -12,7 +12,7 @@
 <br>
 <br>:star2: 
 <img src="https://img.shields.io/badge/Spring-brightgreen?style=plastic&logo=Spring&logoColor=white" width="75px" height="22px"/>
- <img src="https://img.shields.io/badge/Spring-yellow?style=plastic&logo=Spring&logoColor=white" width="75px" height="22px"/>
+ <img src="https://img.shields.io/badge/Spring-brightgreen?style=plastic&logo=Spring&logoColor=white" width="75px" height="22px"/>
 <img src="https://img.shields.io/badge/Java-brightgreen?style=plastic&logo=&logoColor=white" width="75px" height="22px"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=white" width="75px" height="22px"/>
 <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="75px" height="22px"/>
