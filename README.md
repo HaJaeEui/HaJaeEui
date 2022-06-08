@@ -67,9 +67,3 @@
 <br>
 <img align="center" width="440" src="https://github-readme-stats.vercel.app/api?username=HaJaeEui&show_icons=true&theme=radical"></img>
 <img align="center" width="350" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=co3310"></img>
-
-<br>
-  <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="75px" height="22px"/>
-  <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="80px" height="25px"/>
-  <img src="https://img.shields.io/badge/Vue.js-2A6379?style=plastic&logo=Vue.jsy&logoColor=white" width="80px" height="25px"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white" width="75px" height="22px"/>
