@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Java-3D95CE?style=plastic&logo=Java&logoColor=white" width="70px" height="22px"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=white" width="75px" height="22px"/>
 <img src="https://img.shields.io/badge/jQuery-2A6379?style=plastic&logo=jQuery&logoColor=white" width="75px" height="22px"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white" width="75px" height="22px"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white" width="65px" height="22px"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white" width="75px" height="22px"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white" width="75px" height="22px"/>
 <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=231F20" width="100px" height="22px"/>
